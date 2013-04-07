@@ -1,0 +1,7 @@
+*.class
+*.war
+*.ear
+*.db
+.idea
+*.iml
+node_modules
