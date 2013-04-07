@@ -6,7 +6,8 @@
 
 ## With Special Thanks
 
-* bootstrap
+* [bootstrap](https://github.com/twitter/bootstrap)
+* [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg)
 
 
 ## Related Sources
