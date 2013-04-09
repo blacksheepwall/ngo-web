@@ -25,3 +25,6 @@ exports.tags = function(req, res) {
 exports.about = function(req, res) {
   res.render('about', { title: 'About', id: 'about', brand: brand })
 };
+exports.register = function(req, res) {
+  res.render('register', { title: 'Register', id: 'register', brand: brand })
+};

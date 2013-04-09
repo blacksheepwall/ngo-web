@@ -40,6 +40,7 @@ app.get('/files', routes.files);
 app.get('/lines', routes.lines);
 app.get('/tags', routes.tags);
 app.get('/about', routes.about);
+app.get('/register', routes.register);
 
 http.createServer(app).listen(port, function() {
   console.log(host + ':' + port);
